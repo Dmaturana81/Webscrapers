@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Webscrapers"
+  site-url: "https://Dmaturana81.github.io/Webscrapers"
+  description: "Collection of scrapers from different sites"
+  repo-branch: main
+  repo-url: "https://github.com/Dmaturana81/Webscrapers"
